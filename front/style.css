@@ -1,0 +1,13 @@
+body{
+  background-color: aliceblue;
+}
+    td,
+    tr,
+    table {
+  border: 1px solid;
+  padding: 10px;
+}
+table{
+  margin: 0 auto;
+  margin-top: 50px;
+}
